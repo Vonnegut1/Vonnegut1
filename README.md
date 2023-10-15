@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vonnegut1
+- 👋 Hi, I’m Scott Broock
 - 👀 I’m interested in applying machine learning to iconic global characters for massively collaborative creativity. 
 - 🌱 I’m currently learning about Bayesian probability, depth paychology, and media ecology as a new lens on our cultural evolution. 
 - 💞️ I’m looking to collaborate with multidisciplinary and multigenerational builders through an international club of "salons."
